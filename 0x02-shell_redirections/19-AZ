@@ -1,0 +1,2 @@
+#!/bin/ash
+tr "A" "Z"|tr "C" "e"
